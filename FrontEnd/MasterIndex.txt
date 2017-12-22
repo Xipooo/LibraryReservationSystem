@@ -1,0 +1,13 @@
+        <p>
+            Welcome to the NorthWest Library! We are the best library around! We have the most imperative selection of media! 
+            Check out online and we deliver the media to your door or you can rent digital media, for drop off box near you *click here*.  
+            We have space to reserve for study groups, conferences, Lectures
+        </p>
+
+        <textarea rows="25" cols="75">
+            Welcome to the NorthWest Library! We are the best library around! We have the most imperative selection of media! 
+            Check out online and we deliver the media to your door or you can rent digital media, for drop off box near you *click here*.  
+            We have space to reserve for study groups, conferences, Lectures
+        </textarea>
+
+        <img src="https://image.ibb.co/cbGVS6/Waffle_O.png" alt="Avatar" class="avatar"/>
