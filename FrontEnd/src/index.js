@@ -11,7 +11,7 @@ const HomePage = (
             that are available for check-out with the Pro-Library-Account
         </p>
         <img src="https://image.ibb.co/f8iNFR/Team_Waffle_O.png" alt="Team_Waffle_O" class="avatar"/>
-        <a href="Reigister_Page">Register</a>
+        <a href="Register_Page">Register</a>
         <a href="Login_Page">Login</a>
     </div>
     
