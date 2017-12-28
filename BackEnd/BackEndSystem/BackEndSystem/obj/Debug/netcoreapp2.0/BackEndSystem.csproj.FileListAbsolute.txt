@@ -1,0 +1,8 @@
+C:\projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.deps.json
+C:\projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.runtimeconfig.json
+C:\projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.runtimeconfig.dev.json
+C:\projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.dll
+C:\projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.csprojResolveAssemblyReference.cache
+C:\projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.csproj.CoreCompileInputs.cache
+C:\projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.AssemblyInfoInputs.cache
+C:\projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.AssemblyInfo.cs
