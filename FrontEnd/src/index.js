@@ -8,9 +8,9 @@ class HomePage extends React.Component {
     render() {
         return (
             <div>
-        <img src="http://image.ibb.co/ceTBHG/WaffleO.png" alt="WaffleO" border="0" />        <a href="Register_Page">Register</a>
-        <a href="Login_Page">Login</a>
+        <img src="http://image.ibb.co/ceTBHG/WaffleO.png" alt="WaffleO" border="0" />        
         <a href="Register_Page">Register</a>
+        <a href="Login_Page">Login</a>
             </div>
         );
     }
