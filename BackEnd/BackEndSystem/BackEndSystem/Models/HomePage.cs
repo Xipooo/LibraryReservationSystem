@@ -5,13 +5,9 @@ using System.Threading.Tasks;
 
 namespace BackEndSystem.Models
 {
-
-    public class ContactUs
+    public class HomePage
     {
         public int Id { get; set; }
-        public string ContactEmail { get; set; }
-        public string FullName { get; set; }
-        public string Message { get; set; }
-
+        public string HomePageName { get; set; }
     }
 }
