@@ -8,6 +8,8 @@ namespace BackEndSystem.Models
     public class HomePage
     {
         public int Id { get; set; }
-        public string HomePageName { get; set; }
+        public string LibraryName { get; set; }
+        public string LibraryDescr { get; set; }
+
     }
 }
