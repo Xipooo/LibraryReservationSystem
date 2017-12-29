@@ -15,6 +15,13 @@ namespace BackEndSystem.Controllers
         public HomePageController(LibraryContext context)
         {
             _context = context;
+
+            if (_context.HomePage.Count() ==0)
+            {
+                _context.HomePage.Add(new HomePage { LibraryName = "Waffle - O Library", LibraryDescr = "Welcome to the Waffle-O Library! We are the best library around! We have the most imperative selection of media! Check out online and we deliver the media to your door or you can rent digital media, for drop off box near you * click here *.  We have space to reserve for study groups, conferences, Lectures, or personal workspace.We have laptops, cameras, and projectors that are available for check -out with the Pro - Library - Account" });
+                _context.SaveChanges();
+            }
+
         }
 
 

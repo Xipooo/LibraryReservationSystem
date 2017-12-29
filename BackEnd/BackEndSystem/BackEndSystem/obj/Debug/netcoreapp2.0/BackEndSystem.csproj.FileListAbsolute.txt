@@ -17,3 +17,14 @@ C:\Projects_2017\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bi
 C:\Projects_2017\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.dll
 C:\Projects_2017\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.pdb
 C:\Projects_2017\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.csprojResolveAssemblyReference.cache
+D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.deps.json
+D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.runtimeconfig.json
+D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.runtimeconfig.dev.json
+D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.dll
+D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.pdb
+D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.csprojResolveAssemblyReference.cache
+D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.csproj.CoreCompileInputs.cache
+D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.AssemblyInfoInputs.cache
+D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.AssemblyInfo.cs
+D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.dll
+D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.pdb
