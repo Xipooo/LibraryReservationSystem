@@ -12535,7 +12535,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Enes Hanson\\.nuget\\packages\\": {},
+    "C:\\Users\\leahn\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12544,18 +12545,20 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\projects\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
+      "projectUniqueName": "C:\\Projects_2017\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
       "projectName": "BackEndSystem",
-      "projectPath": "C:\\projects\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
-      "packagesPath": "C:\\Users\\Enes Hanson\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\obj\\",
+      "projectPath": "C:\\Projects_2017\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
+      "packagesPath": "C:\\Users\\leahn\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects_2017\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Enes Hanson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\leahn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12578,18 +12581,18 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
+          "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "2.0",
-            "autoReferenced": true
+            "version": "[2.0.3, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "2.0.1"
+            "version": "[2.0.1, )"
           },
-          "Microsoft.AspNetCore.All": {
+          "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.3"
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           }
         },
         "imports": [

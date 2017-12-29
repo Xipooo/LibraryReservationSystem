@@ -12,5 +12,6 @@ namespace BackEndSystem.EF
         public DbSet<Genre> Genre { get; set; }
         public DbSet<Author> Author { get; set; }
         public DbSet<MediaType> MediaType { get; set; }
+        public DbSet<ContactUs> ContactUs { get; set;}
     }
 }
