@@ -28,3 +28,6 @@ D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndS
 D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.AssemblyInfo.cs
 D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.dll
 D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.pdb
+C:\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.pdb
+C:\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.dll
+C:\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.pdb
