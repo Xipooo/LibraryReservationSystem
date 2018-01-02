@@ -8,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using BackEndSystem.EF;
+using BackEndSystem.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace BackEndSystem
@@ -27,7 +27,7 @@ namespace BackEndSystem
         {
             services.AddMvc();
             services.AddDbContext<LibraryContext>(options =>
-                   options.UseSqlServer(Configuration.GetConnectionString("LibraryContext")));
+                   options.UseSqlServer(Configuration.GetConnectionString("connectionstring")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
