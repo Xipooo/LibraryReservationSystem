@@ -12536,23 +12536,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ringer\\.nuget\\packages\\": {},
+    "C:\\Users\\keops\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
+      "projectUniqueName": "E:\\Library Project\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
       "projectName": "BackEndSystem",
-      "projectPath": "C:\\Projects\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
-      "packagesPath": "C:\\Users\\Ringer\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\obj\\",
+      "projectPath": "E:\\Library Project\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
+      "packagesPath": "C:\\Users\\keops\\.nuget\\packages\\",
+      "outputPath": "E:\\Library Project\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ringer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\keops\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12576,22 +12579,22 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "2.0.0",
-            "autoReferenced": true
-          },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "2.0.3"
+            "version": "[2.0.3, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "2.0.1"
+            "version": "[2.0.1, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
             "target": "Package",
-            "version": "2.0.1"
+            "version": "[2.0.1, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           }
         },
         "imports": [

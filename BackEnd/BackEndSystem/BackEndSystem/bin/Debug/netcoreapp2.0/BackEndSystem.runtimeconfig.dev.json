@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Ringer\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Ringer\\.nuget\\packages",
+      "C:\\Users\\keops\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\keops\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }

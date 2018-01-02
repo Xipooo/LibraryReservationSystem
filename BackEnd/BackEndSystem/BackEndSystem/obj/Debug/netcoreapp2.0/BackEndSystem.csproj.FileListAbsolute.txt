@@ -31,3 +31,14 @@ D:\School Projects\CoderCamps\Projects\LibraryReservationSystem\BackEnd\BackEndS
 C:\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.pdb
 C:\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.dll
 C:\Projects\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.pdb
+E:\Library Project\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.deps.json
+E:\Library Project\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.runtimeconfig.json
+E:\Library Project\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.runtimeconfig.dev.json
+E:\Library Project\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.dll
+E:\Library Project\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\bin\Debug\netcoreapp2.0\BackEndSystem.pdb
+E:\Library Project\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.csprojResolveAssemblyReference.cache
+E:\Library Project\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.csproj.CoreCompileInputs.cache
+E:\Library Project\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.AssemblyInfoInputs.cache
+E:\Library Project\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.AssemblyInfo.cs
+E:\Library Project\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.dll
+E:\Library Project\LibraryReservationSystem\BackEnd\BackEndSystem\BackEndSystem\obj\Debug\netcoreapp2.0\BackEndSystem.pdb
