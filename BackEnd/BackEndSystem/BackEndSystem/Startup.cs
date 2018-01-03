@@ -11,7 +11,6 @@ using Microsoft.Extensions.Options;
 using BackEndSystem.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Cors;
-using Microsoft.AspNetCore.Http;
 
 namespace BackEndSystem
 {
@@ -42,14 +41,9 @@ namespace BackEndSystem
             }
             // Shows UseCors with CorsPolicyBuilder.
             app.UseCors(builder =>
-               builder.WithOrigins("http://localhost:8080/")
+               builder.WithOrigins("http://localhost:8080")
                .AllowAnyHeader()
                );
-
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("Hello World!");
-            });
 
             app.UseMvc();
         }

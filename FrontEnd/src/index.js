@@ -6,35 +6,32 @@ class HomePage extends React.Component {
         super(props);
         this.state = {
             HomePageDescription: '',
+            HomePageName: '',
         };
     }
 
-componentWillMount() {
-    fetch ('http://localhost:7441/api/homepage')
-    .then(results => {
-        return results.json();
-    }) .then(data => {
-        let HomePageDescription = data.results.map((paragraph) => {
-        return(
-            <div key={paragraph.results}>
-                <p> {paragraph.HomePageDescription.libraryDescr} </p>
+    componentWillMount() {
+        fetch('http://localhost:7441/api/homepage/1')
+            .then(results => {
+                return results.json();
+            })
+            .then(data => {
+                this.setState({ HomePageDescription: data.libraryDescr,
+                HomePageName: data.libraryName })
+            });
+
+    }
+    render() {
+        return (
+            <div>
+                <h1>{this.state.HomePageName}</h1>
+                <p>{this.state.HomePageDescription}</p>
             </div>
         )
-        })
-        this.setState({HomePageDescription: HomePageDescription})
-    })
-    
     }
-render() {
-    return (
-        <div>
-            {this.state.HomePageDescription}
-        </div>
-    )
-}
 }
 
 ReactDOM.render(
-    <HomePage/>,
+    <HomePage />,
     document.getElementById("root")
 )
