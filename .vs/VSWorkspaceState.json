@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BackEnd",
+    "\\BackEnd\\BackEndSystem",
+    "\\BackEnd\\BackEndSystem\\BackEndSystem",
+    "\\BackEnd\\BackEndSystem\\BackEndSystem\\Controllers",
+    "\\BackEnd\\BackEndSystem\\BackEndSystem\\Models",
+    "\\BackEnd\\BackEndSystem\\BackEndSystem\\obj",
+    "\\BackEnd\\BackEndSystem\\BackEndSystem\\Properties",
+    "\\FrontEnd",
+    "\\FrontEnd\\public"
+  ],
+  "SelectedNode": "\\BackEnd\\BackEndSystem",
+  "PreviewInSolutionExplorer": false
+}
