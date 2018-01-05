@@ -8,3 +8,5 @@ BackEnd/BackEndSystem/\.vs/BackEndSystem/v15/\.suo
 BackEnd/BackEndSystem/\.vs/BackEndSystem/v15/
 
 *.cache
+
+ReactTemplate/React/node_modules/
