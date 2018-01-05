@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using BackEndSystem.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Cors;
 
 namespace BackEndSystem
 {
@@ -25,6 +26,7 @@ namespace BackEndSystem
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
             services.AddMvc();
             services.AddDbContext<LibraryContext>(options =>
                    options.UseSqlServer(Configuration.GetConnectionString("connectionstring")));
@@ -37,6 +39,11 @@ namespace BackEndSystem
             {
                 app.UseDeveloperExceptionPage();
             }
+            // Shows UseCors with CorsPolicyBuilder.
+            app.UseCors(builder =>
+               builder.WithOrigins("http://localhost:8080")
+               .AllowAnyHeader()
+               );
 
             app.UseMvc();
         }

@@ -4,18 +4,34 @@ import ReactDOM from 'react-dom';
 class HomePage extends React.Component {
     constructor(props) {
         super(props);
+        this.state = {
+            HomePageDescription: '',
+            HomePageName: '',
+        };
+    }
+
+    componentWillMount() {
+        fetch('http://localhost:7441/api/homepage/1')
+            .then(results => {
+                return results.json();
+            })
+            .then(data => {
+                this.setState({ HomePageDescription: data.libraryDescr,
+                HomePageName: data.libraryName })
+            });
+
     }
     render() {
         return (
             <div>
-        <img src="http://image.ibb.co/ceTBHG/WaffleO.png" alt="WaffleO" border="0" />        
-        <a href="Register_Page">Register</a>
-        <a href="Login_Page">Login</a>
+                <h1>{this.state.HomePageName}</h1>
+                <p>{this.state.HomePageDescription}</p>
             </div>
-        );
+        )
     }
 }
+
 ReactDOM.render(
-    <HomePage/>,
+    <HomePage />,
     document.getElementById("root")
 )
