@@ -2,3 +2,9 @@
 FrontEnd/node_modules/
 FrontEnd/.vscode/settings.json
 FrontEnd/package-lock.json
+
+BackEnd/BackEndSystem/\.vs/BackEndSystem/v15/\.suo
+
+BackEnd/BackEndSystem/\.vs/BackEndSystem/v15/
+
+*.cache
