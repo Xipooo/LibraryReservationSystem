@@ -2,3 +2,5 @@
 FrontEnd/node_modules/
 FrontEnd/.vscode/settings.json
 FrontEnd/package-lock.json
+
+ReactTemplate/React/node_modules/
