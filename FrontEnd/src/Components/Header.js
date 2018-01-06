@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { render } from 'react-dom';
 
 export default class Header extends React.Component {
     render() {

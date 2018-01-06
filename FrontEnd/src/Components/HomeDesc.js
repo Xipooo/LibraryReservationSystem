@@ -1,6 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-class HomePage extends React.Component {
+
+class HomeDesc extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -33,6 +34,7 @@ class HomePage extends React.Component {
 
 
 ReactDOM.render(
-    <HomePage />,
+    <HomeDesc />,
     document.getElementById("root")
 )
+export default HomeDesc
