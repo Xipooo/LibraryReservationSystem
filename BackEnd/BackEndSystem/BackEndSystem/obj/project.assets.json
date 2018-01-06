@@ -12536,8 +12536,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bjaminballard74\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\keops\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12546,20 +12545,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Product\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
+      "projectUniqueName": "E:\\Library Project\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
       "projectName": "BackEndSystem",
-      "projectPath": "C:\\Product\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
-      "packagesPath": "C:\\Users\\bjaminballard74\\.nuget\\packages\\",
-      "outputPath": "C:\\Product\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\obj\\",
+      "projectPath": "E:\\Library Project\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\BackEndSystem.csproj",
+      "packagesPath": "C:\\Users\\keops\\.nuget\\packages\\",
+      "outputPath": "E:\\Library Project\\LibraryReservationSystem\\BackEnd\\BackEndSystem\\BackEndSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bjaminballard74\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\keops\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
